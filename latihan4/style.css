@@ -1,0 +1,10 @@
+body {
+	/*
+	background-color: lightblue;
+	background-image: url(gambar/bg2.png);
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	*/
+
+	background: lightblue url(gambar/bg2.png) bottom center no-repeat;
+}

@@ -1,0 +1,22 @@
+/* belajar mengenai text styling */
+
+h1 {
+  font-size: 150px;
+/*   color: khaki; */
+/*   color: #7603ec; */
+  color: rgb(115,80,212);
+  text-decoration: overline;
+  text-transform: uppercase;
+}
+
+p {
+  text-align: justify;
+  text-indent: 100px;
+  text-transform: capitalize;
+  letter-spacing: 5px;
+  word-spacing: 10px;
+}
+
+a {
+  text-decoration: none;
+}
